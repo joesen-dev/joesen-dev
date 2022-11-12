@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
-<p>Welcome to my page! </br> I'm Joseph, a new Full-Stack Developer looking to build a Portfolio.
+<p>Welcome to my page! </br> I'm Joseph, a new Full Stack Developer looking to build a Portfolio.
 
 <h3>Things I code with</h3>
 <p>
@@ -15,6 +15,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-blue" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
